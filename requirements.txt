@@ -1,0 +1,9 @@
+openai
+requests
+streamlit
+python-dotenv
+transformers
+torch
+scikit-learn
+matplotlib
+pandas
