@@ -180,11 +180,11 @@ csc7644-final-project-Sholi/
 ## Screenshots
 
 ### AI Detection with Sentence Highlighting
-![AI Detection](<img width="1917" height="979" alt="AI_detector_1" src="https://github.com/user-attachments/assets/a6beae3c-e811-4409-b638-03a86c1e2648" />
+![AI_detector_1](<img width="1917" height="979" alt="AI_detector_1" src="https://github.com/user-attachments/assets/a6beae3c-e811-4409-b638-03a86c1e2648" />
 )
 
 ### Explanation, Rewrite & Feedback Loop
-![Rewrite Feedback Loop](<img width="1915" height="953" alt="AI_detector_2" src="https://github.com/user-attachments/assets/5807faba-4971-4fa0-b6bf-8abe77ce6bfa" />
+![AI_detector_2](<img width="1915" height="953" alt="AI_detector_2" src="https://github.com/user-attachments/assets/5807faba-4971-4fa0-b6bf-8abe77ce6bfa" />
 )
 
 ## Known Limitations
