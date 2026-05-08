@@ -180,10 +180,11 @@ csc7644-final-project-Sholi/
 
 ## Known Limitations
 
-- The detector uses `roberta-base-openai-detector`, which was trained on GPT-2 era text (2019). It works well for most cases but may underestimate newer GPT-4 style writing, particularly formal corporate or academic text.
-- The sample evaluation dataset contains only 8 samples. Evaluation metrics should be interpreted as indicative rather than statistically significant.
-- Detection threshold is set to 0.35 (rather than the default 0.5) to improve sensitivity to modern AI writing patterns.
+- The detector is based on `roberta-base-openai-detector`, which was originally trained on earlier-generation AI text. While it performs reasonably well for prototype evaluation, performance may vary on newer large language model outputs.
 
+- The current evaluation dataset is intentionally small and designed for coursework-scale experimentation. Larger and more diverse datasets would provide more statistically robust evaluation results.
+
+- The detection threshold was experimentally adjusted to improve sensitivity to modern AI-generated writing patterns and may require further tuning for broader real-world deployment.
 ---
 
 ## Attributions and Citations
