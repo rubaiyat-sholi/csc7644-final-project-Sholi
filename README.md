@@ -180,10 +180,10 @@ csc7644-final-project-Sholi/
 ## Screenshots
 
 ### AI Detection with Sentence Highlighting
-![AI Detection](AI_detector_1.png)
+![AI Detection](https://raw.githubusercontent.com/rubaiyat-sholi/csc7644-final-project-Sholi/main/AI_detector_1.png)
 
 ### Explanation, Rewrite & Feedback Loop
-![Rewrite Feedback Loop](AI_detector_2.png)
+![Rewrite Feedback Loop](https://raw.githubusercontent.com/rubaiyat-sholi/csc7644-final-project-Sholi/main/AI_detector_2.png)
 
 ## Known Limitations
 
